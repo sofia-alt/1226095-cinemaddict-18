@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [София Абаева](https://up.htmlacademy.ru/ecmascript/18/user/1226095).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/id1118577).
 
 ---
 
