@@ -1,6 +1,6 @@
 import { createElement } from '../render.js';
 
-const footerStatisticsTemplate = () => '<p>130 291 movies inside</p>';
+export const footerStatisticsTemplate = () => '<p>130 291 movies inside</p>';
 
 export default class FooterStatistics {
   getTemplate() {
